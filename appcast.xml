@@ -3,6 +3,14 @@
     <channel>
         <title>TipTour</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Wed, 13 May 2026 14:55:08 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/milind-soni/tiptour-releases/releases/download/v0.4/TipTour.dmg" length="5787283" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Tue, 28 Apr 2026 23:58:33 +0530</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/milind-soni/tiptour-releases/releases/download/v0.2/TipTour.dmg" length="42452601" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>0.1</title>
-            <pubDate>Tue, 28 Apr 2026 18:19:53 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/milind-soni/tiptour-releases/releases/download/v0.1/TipTour.dmg" length="42414279" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
